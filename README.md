@@ -1,4 +1,4 @@
-# Daniel-P.K
+# Daniel-K.K-world
 👋 Hi, I'm Danny!
 🚀 About Me
 I’m a passionate and driven tech enthusiast currently diving deep into web development and programming. My journey in tech is fueled by a constant thirst for learning and the desire to create visually appealing, user-friendly solutions. I thrive on solving problems and pushing myself to grow, whether it’s through coding challenges or building meaningful projects.
