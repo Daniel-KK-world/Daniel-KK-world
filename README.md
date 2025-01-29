@@ -10,10 +10,8 @@ Frameworks & Libraries
 Tools
 <p> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git Badge"/> <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash Badge"/> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL Badge"/> </p>
 🎯 Goals
-Short-Term Goals:
 
-Deploy my portfolio site with a polished, responsive design.
-Learn React by creating functional projects like calculators and weather apps.
+Short-Term Goals:
 Add payment gateway to e-commerce site 
 Create a piano tiles game. 
 And oh yes on that note I want to learn pygame. Shouldn't be that hard so it's short term.
