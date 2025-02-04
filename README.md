@@ -17,6 +17,7 @@ Create a piano tiles game.
 And oh yes on that note I want to learn pygame. Shouldn't be that hard so it's short term.
 
 Long-Term Goals:
+AI/Ml Engineer
 Master React Native for mobile app development.
 Create a visually stunning capstone project integrating multiple technologies.
 ❤️ Interests
