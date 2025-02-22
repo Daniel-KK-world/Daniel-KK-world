@@ -21,7 +21,7 @@ AI/Ml Engineer
 Master React Native for mobile app development.
 Create a visually stunning capstone project integrating multiple technologies.
 ❤️ Interests
-<p align="center"> <img src="https://img.shields.io/badge/-Web%20Design-FF5733?style=for-the-badge" alt="Web Design Badge"/> <img src="https://img.shields.io/badge/-AI%20and%20ML-3498DB?style=for-the-badge" alt="AI and ML Badge"/> <img src="https://img.shields.io/badge/-Open%20Source-2ECC71?style=for-the-badge" alt="Open Source Badge"/> <img src="https://img.shields.io/badge/-Fitness%20Journey-F39C12?style=for-the-badge" alt="Fitness Journey Badge"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/-Web%20Design-FF5733?style=for-the-badge" alt="Web Design Badge"/> <img src="https://img.shields.io/badge/-AI%20and%20ML-3498DB?style=for-the-badge" alt="AI and ML Badge"/> <img src="https://img.shields.io/badge/-Open%20Source-2ECC71?style=for-the-badge" alt="Open Source Badge"/> </p>
 🚀 Let’s Build Together!
 
 💼 Check out my Portfolio.
