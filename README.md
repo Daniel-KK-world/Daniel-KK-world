@@ -12,12 +12,12 @@ Tools
 🎯 Goals
 
 Short-Term Goals:
-Add payment gateway to e-commerce site 
-Create a piano tiles game. 
-And oh yes on that note I want to learn pygame. Shouldn't be that hard so it's short term.
+Create a piano tiles game.
+And that KungFu Panda Game. 
+Of course it can't all be games so I'd create my personal blog and maintain it too. 
+
 
 Long-Term Goals:
-AI/Ml Engineer
 Master React Native for mobile app development.
 Create a visually stunning capstone project integrating multiple technologies.
 ❤️ Interests
@@ -25,6 +25,6 @@ Create a visually stunning capstone project integrating multiple technologies.
 🚀 Let’s Build Together!
 
 💼 Check out my Portfolio.
-📫 Contact me at danilofletcher978@gmail.com
+📫 Contact me at danielpossiblekwabi@gmail.com
 🌟 Let’s connect on LinkedIn. Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=daniel-possible-kwabi-383a86310
 ✨ Fun Fact: My coding journey is inspired by my passion for learning and constant improvement.
