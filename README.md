@@ -1,5 +1,5 @@
 👋 Hi, I'm Danny!
-<div align="center"> <img src="https://img.shields.io/badge/-Web%20Developer-blue?style=for-the-badge" alt="Web Developer Badge"/> <img src="https://img.shields.io/badge/-Tech%20Enthusiast-green?style=for-the-badge" alt="Tech Enthusiast Badge"/> </div>
+<div align="center"> <img src="https://img.shields.io/badge/-Software%20Developer-blue?style=for-the-badge" alt="Web Developer Badge"/> <img src="https://img.shields.io/badge/-GameDev%20Enthusiast-green?style=for-the-badge" alt="Tech Enthusiast Badge"/> </div>
 💻 Skills
 Here’s what I bring to the table:
 
@@ -13,9 +13,6 @@ Tools
 
 Short-Term Goals:
 Create a piano tiles game.
-And that KungFu Panda Game. 
-Of course it can't all be games so I'd create my personal blog and maintain it too. 
-
 
 Long-Term Goals:
 Master React Native for mobile app development.
