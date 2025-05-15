@@ -1,9 +1,9 @@
 👋 Hi, I'm Daniel!
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-DevOps%20Engineer-orange?style=for-the-badge" alt="DevOps Engineer Badge"/>
   <img src="https://img.shields.io/badge/-Software%20Developer-blue?style=for-the-badge" alt="Software Developer Badge"/>
   <img src="https://img.shields.io/badge/-GameDev%20Enthusiast-green?style=for-the-badge" alt="GameDev Enthusiast Badge"/>
-  <img src="https://img.shields.io/badge/-DevOps%20Explorer-orange?style=for-the-badge" alt="DevOps Badge"/>
   <img src="https://img.shields.io/badge/-Content%20Creator-red?style=for-the-badge" alt="Content Creator Badge"/>
 </div>
 
@@ -64,11 +64,14 @@ Here’s what I bring to the table:
 
 ## 🚀 Let’s Build Together!
 
-- 💼 [Check out my Portfolio](dannieldev.netlify.app) 
+- 💼 [Check out my Portfolio](https://dannieldev.netlify.app) 
 - 📫 **Email:** danielpossiblekwabi@gmail.com  
 - 🔗 **LinkedIn:** [Daniel Kwabi](https://www.linkedin.com/in/daniel-possible-kwabi-383a86310)
 
-### 📺 My YouTube Channel
+---
+
+## 📺 My YouTube Channel
+
 > 🎥 I'm building games, web apps, and sharing my journey.
 
 <p align="center">
@@ -77,12 +80,33 @@ Here’s what I bring to the table:
   </a>
 </p>
 
-🎬 **Recent Uploads**  
-- 🔗 [100 men vs 1 Gorilla in Pygame](https://youtu.be/lnHr3K3QOao?si=ZztQp1Fm140tohh9)
-- 🔗 [Soccer Pong in Python — Full Playlist](https://youtube.com/playlist?list=PLZg2d3uplHMDGpsVfIMoipPxMLlApxLBy&si=Xfx800ZrKNmFIXc9)
-- 🔗 [Up your collabrations to a gazillion](https://youtu.be/jfLqxjihzz0?si=UJExyPllQVIoW740)
+---
+
+### 🎬 Recent Uploads
+
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/lnHr3K3QOao?si=ZztQp1Fm140tohh9">
+        <img src="https://img.youtube.com/vi/lnHr3K3QOao/0.jpg" width="100%" alt="100 men vs 1 Gorilla in Pygame"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://youtube.com/playlist?list=PLZg2d3uplHMDGpsVfIMoipPxMLlApxLBy&si=Xfx800ZrKNmFIXc9">
+        <img src="https://img.youtube.com/vi/fake_id1/0.jpg" width="100%" alt="Soccer Pong in Python"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://youtu.be/jfLqxjihzz0?si=UJExyPllQVIoW740">
+        <img src="https://img.youtube.com/vi/jfLqxjihzz0/0.jpg" width="100%" alt="Up your collabrations to a gazillion"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-✨ **Fun Fact:** I skipped most beginner projects and dove deep into advanced topics — but now I’m backtracking to teach & learn from them the right(Depends on who you ask, clearly I am doing just fine) way 😄
+✨ **Fun Fact:** I skipped most beginner projects and dove deep into advanced topics — but now I’m backtracking to teach & learn from them the right way (depends on who you ask, clearly I’m doing just fine 😎).
+
+---
 
