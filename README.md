@@ -75,7 +75,7 @@ Here’s what I bring to the table:
 > 🎥 I'm building games, web apps, and sharing my journey.
 
 <p align="center">
-  <a href="https://www.youtube.com/@DanielDev" target="_blank">
+  <a href="[https://www.youtube.com/@DanielDev](https://youtu.be/lnHr3K3QOao)" target="_blank">
     <img src="https://img.shields.io/badge/-DanielDev%20on%20YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
@@ -89,11 +89,6 @@ Here’s what I bring to the table:
     <td>
       <a href="https://youtu.be/lnHr3K3QOao?si=ZztQp1Fm140tohh9">
         <img src="https://img.youtube.com/vi/lnHr3K3QOao/0.jpg" width="100%" alt="100 men vs 1 Gorilla in Pygame"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://youtube.com/playlist?list=PLZg2d3uplHMDGpsVfIMoipPxMLlApxLBy&si=Xfx800ZrKNmFIXc9">
-        <img src="https://img.youtube.com/vi/fake_id1/0.jpg" width="100%" alt="Soccer Pong in Python"/>
       </a>
     </td>
     <td>
