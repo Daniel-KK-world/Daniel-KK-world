@@ -60,6 +60,33 @@ Here’s what I bring to the table:
   <img src="https://img.shields.io/badge/-Open%20Source-2ECC71?style=for-the-badge"/>
 </p>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/lnHr3K3QOao" target="_blank">
+        <img src="https://img.youtube.com/vi/lnHr3K3QOao/0.jpg" width="250"/>
+        <br/>
+        <strong>100 Men vs 1 Gorilla</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/playlist?list=PLZg2d3uplHMDGpsVfIMoipPxMLlApxLBy" target="_blank">
+        <img src="https://img.youtube.com/vi/2eVEOzD6hGM/0.jpg" width="250"/>
+        <br/>
+        <strong>Soccer Pong (Playlist)</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/jfLqxjihzz0" target="_blank">
+        <img src="https://img.youtube.com/vi/jfLqxjihzz0/0.jpg" width="250"/>
+        <br/>
+        <strong>Collab Like a Pro</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 🚀 Let’s Build Together!
@@ -75,8 +102,8 @@ Here’s what I bring to the table:
 > 🎥 I'm building games, web apps, and sharing my journey.
 
 <p align="center">
-  <a href="[https://www.youtube.com/@DanielDev](https://youtu.be/lnHr3K3QOao)" target="_blank">
-    <img src="https://img.shields.io/badge/-DanielDev%20on%20YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.youtube.com/@SuperDan" target="_blank">
+    <img src="https://img.shields.io/badge/-SuperDan%20on%20YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
