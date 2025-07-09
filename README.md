@@ -1,134 +1,55 @@
-👋 Hi, I'm Daniel !
+# 👋 Hi, I'm Daniel Kwabi
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-DevOps%20Engineer-orange?style=for-the-badge" alt="DevOps Engineer Badge"/>
-  <img src="https://img.shields.io/badge/-Software%20Developer-blue?style=for-the-badge" alt="Software Developer Badge"/>
-  <img src="https://img.shields.io/badge/-GameDev%20Enthusiast-green?style=for-the-badge" alt="GameDev Enthusiast Badge"/>
-  <img src="https://img.shields.io/badge/-Content%20Creator-red?style=for-the-badge" alt="Content Creator Badge"/>
+  <img src="https://img.shields.io/badge/-Fullstack%20Engineer-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Backend%20Specialist-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Problem%20Solver-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Lifelong%20Learner-9cf?style=for-the-badge"/>
 </div>
 
 ---
 
-## 💻 Skills
-Here’s what I bring to the table:
+## 💻 Tech Stack
 
 ### 🧠 Languages  
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
-</p>
+<p> <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/> </p>
 
 ### 🧰 Frameworks & Libraries  
-<p>
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white&style=for-the-badge"/>
-</p>
+<p> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white&style=for-the-badge"/> </p>
 
-### 🔧 Tools  
+### 🛠 Tools & Platforms  
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🎯 Goals
+## 🛠 Recent Projects
 
-### 🔹 Short-Term Goals:
-- 🎮 Build a Piano Tiles game  
-- 📹 Grow my YouTube channel to 1K subs
+| Project | Stack | Description |
+|--------|--------|-------------|
+| **Employee Dashboard** | React, JSON Server | A full CRUD employee management interface built using React with live search and dark UI design. |
+| **Facial Recognition Attendance System** | OpenCV, Python | Used facial data to automate attendance logging in a classroom or workplace. |
+| **Soccer Pong Game** | Pygame, Python | A fun arcade-inspired game merging classic Pong with soccer mechanics. |
+| **FlashCard Web App (WIP)** | Flask, JS | A flashcard-based study tool inspired by spaced repetition systems. |
 
-### 🔸 Long-Term Goals:
-- 📱 Master React Native for mobile apps  
-- 💡 Build a project with a substantial userbase
-- 🌍 Mentor new devs  
+---
+---
+
+## 📫 Contact Me
+
+If you're looking for a **dedicated, backend-heavy fullstack dev** with creative edge and consistent learning energy — I’m open to roles and collaborations.
+
+- 🌐 [Portfolio](https://dannieldev.netlify.app)
+- 📩 Email: **danielpossiblekwabi@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-possible-kwabi-383a86310)
 
 ---
 
-## ❤️ Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Web%20Design-FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Game%20Development-27AE60?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-DevOps%20Engineering-F1C40F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-AI%20and%20ML-3498DB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Open%20Source-2ECC71?style=for-the-badge"/>
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://youtu.be/lnHr3K3QOao" target="_blank">
-        <img src="https://img.youtube.com/vi/lnHr3K3QOao/0.jpg" width="250"/>
-        <br/>
-        <strong>100 Men vs 1 Gorilla</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtube.com/playlist?list=PLZg2d3uplHMDGpsVfIMoipPxMLlApxLBy" target="_blank">
-        <img src="https://img.youtube.com/vi/2eVEOzD6hGM/0.jpg" width="250"/>
-        <br/>
-        <strong>Soccer Pong (Playlist)</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/jfLqxjihzz0" target="_blank">
-        <img src="https://img.youtube.com/vi/jfLqxjihzz0/0.jpg" width="250"/>
-        <br/>
-        <strong>Collab Like a Pro</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
----
-
-## 🚀 Let’s Build Together!
-
-- 💼 [Check out my Portfolio](https://dannieldev.netlify.app) 
-- 📫 **Email:** danielpossiblekwabi@gmail.com  
-- 🔗 **LinkedIn:** [Daniel Kwabi](https://www.linkedin.com/in/daniel-possible-kwabi-383a86310)
-
----
-
-## 📺 My YouTube Channel
-
-> 🎥 I'm building games, web apps, and sharing my journey.
-
-<p align="center">
-  <a href="https://www.youtube.com/@SuperDan" target="_blank">
-    <img src="https://img.shields.io/badge/-SuperDan%20on%20YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-### 🎬 Recent Uploads
-
-<table>
-  <tr>
-    <td>
-      <a href="https://youtu.be/lnHr3K3QOao?si=ZztQp1Fm140tohh9">
-        <img src="https://img.youtube.com/vi/lnHr3K3QOao/0.jpg" width="100%" alt="100 men vs 1 Gorilla in Pygame"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://youtu.be/jfLqxjihzz0?si=UJExyPllQVIoW740">
-        <img src="https://img.youtube.com/vi/jfLqxjihzz0/0.jpg" width="100%" alt="Up your collabrations to a gazillion"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-✨ **Fun Fact:** I skipped most beginner projects and dove deep into advanced topics — but now I’m backtracking to teach & learn from them the right way (depends on who you ask, clearly I’m doing just fine 😎).
-
----
+> ✨ *I started by skipping the basics and jumping into advanced topics — now I’m circling back, filling the gaps, and owning the fullstack journey.*  
+> **Clean code. Clear purpose. Constant growth.**
 
