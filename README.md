@@ -34,6 +34,7 @@
 |--------|--------|-------------|
 | **Employee Dashboard** | React, JSON Server | A full CRUD employee management interface built using React with live search and dark UI design. |
 | **Facial Recognition Attendance System** | OpenCV, Python | Used facial data to automate attendance logging in a classroom or workplace. |
+| **Spring Boot API(also CRUD)** | Spring, Java | RESTful API Design: Follows REST conventions for smooth integration across clients.|
 | **Soccer Pong Game** | Pygame, Python | A fun arcade-inspired game merging classic Pong with soccer mechanics. |
 | **FlashCard Web App (WIP)** | Flask, JS | A flashcard-based study tool inspired by spaced repetition systems. |
 
@@ -50,6 +51,6 @@ If you're looking for a **dedicated, backend-heavy fullstack dev** with creative
 
 ---
 
-> ✨ *I started by skipping the basics and jumping into advanced topics — now I’m circling back, filling the gaps, and owning the fullstack journey.*  
+> Continuos Learning. 
 > **Clean code. Clear purpose. Constant growth.**
 
