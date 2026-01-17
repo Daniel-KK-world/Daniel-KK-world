@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Kwabi
+# 👋 Hi, I'm Daniel Possible Kwabi
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Fullstack%20Engineer-blueviolet?style=for-the-badge"/>
