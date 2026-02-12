@@ -1,5 +1,5 @@
 # Daniel Possible Kwabi
-### Product-Focused Software Engineer | Fintech & Biometrics Specialist
+### Product-Focused Software Engineer | Fintech 
 
 Product-minded engineer with 3+ years of experience building high-availability backends and enterprise automation systems. My work focuses on **offline-first biometric security**, **fintech payment integrations (M-PESA)**, and **AI-driven architectures**.
 
