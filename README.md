@@ -34,7 +34,7 @@ A production-grade, offline-first attendance system designed for corporate envir
 *Note: Codebase is proprietary/private due to NDA.*
 **Stack:** Java, SOAP/REST APIs, Oracle DB
 Co-engineered the payment gateway middleware allowing Telecel Cash users to renew DSTV subscriptions via mobile money.
-- **Role:** Lead Integration Engineer (Mobile Money Team).
+- **Role:** Integration Engineer (Mobile Money Team).
 - **Outcome:** Successfully handled high-concurrency transaction volumes during peak renewal windows with **99.9% uptime**.
 - **Challenge:** Resolved critical SOAP payload mismatches in the legacy banking environment.
 
