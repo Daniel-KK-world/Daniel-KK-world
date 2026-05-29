@@ -35,18 +35,14 @@ A production-grade, offline-first attendance system designed for corporate envir
 **Stack:** Java, SOAP/REST APIs, Oracle DB
 Co-engineered the payment gateway middleware allowing Telecel Cash users to renew DSTV subscriptions via mobile money.
 - **Role:** Integration Engineer (Mobile Money Team).
-- **Outcome:** Successfully handled high-concurrency transaction volumes during peak renewal windows with **99.9% uptime**.
-- **Challenge:** Resolved critical SOAP payload mismatches in the legacy banking environment.
 
 ### 🤖 [Automated Client Acquisition Engine](https://github.com/Daniel-KK-world/client-acquisition-tool)
-*Check repo: `client-acquisition-tool`
 **Stack:** Python, Selenium, LLM Integration
 An internal revenue-generation tool that automates the lead qualification lifecycle.
 - **Automation:** Scripted headless browser agents to scrape and aggregate lead data.
 - **AI Integration:** Implemented LLM logic to personalize cold-outreach messaging based on prospect data.
 
-### 📊 [SaaS Vendor Portal Prototype](https://github.com/Daniel-KK-world/employee-dashboard)
-*Check repo: `employee-dashboard` 
+### 📊 [SaaS Vendor Portal Prototype](https://github.com/Daniel-KK-world/employee-dashboard) 
 **Stack:** React, Node.js, JWT
 A reference architecture for secure, role-based enterprise dashboards.
 - **Security:** Implemented JWT-based authentication with refresh token rotation.
