@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Daniel Possible Kwabi
@@ -7,9 +6,9 @@
 
 **I design systems, build products, and teach software engineering.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-possible-kwabi-383a86310)
-[![YouTube](https://img.shields.io/badge/YouTube-Learn_with_me-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@danielpossiblekwabi)
-[![GitHub](https://img.shields.io/badge/GitHub-Build_with_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel-KK-world)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/daniel-possible-kwabi-383a86310)
+[![YouTube](https://img.shields.io/badge/YouTube-My_Channel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@danielpossiblekwabi)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Daniel-KK-world)
 
 </div>
 
@@ -23,19 +22,7 @@ I enjoy taking ideas from **business requirements to working software** — desi
 
 My sweet spot is the intersection of:
 
-```text
-Business Problem
-      ↓
-System Architecture
-      ↓
-Backend + Database
-      ↓
-Product Development
-      ↓
-Deployment
-      ↓
-Real Users
-````
+**Business Problem → System Architecture → Backend → Database → Product → Deployment**
 
 I currently work in a startup environment where I get hands-on ownership of **system architecture, backend engineering, database design, and product development**.
 
@@ -43,43 +30,20 @@ Outside of engineering, I teach programming and software engineering through **u
 
 ---
 
-## ⚙️ What I Build
+## 🧠 What I Do
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Systems & Architecture
-
-* System architecture
-* REST API design
-* Database architecture
-* Role-Based Access Control
-* Backend services
-* Scalable application design
-* Production deployments
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Product Engineering
-
-* Full-stack applications
-* Business workflow automation
-* Developer platforms
-* Logistics systems
-* Desktop applications
-* Internal enterprise tools
-* End-to-end product development
-
-</td>
-</tr>
-</table>
+| Area                            | What I Work On                                                                      |
+| ------------------------------- | ----------------------------------------------------------------------------------- |
+| 🏗️ **System Architecture**     | Designing systems around business requirements, scalability, and maintainability    |
+| ⚙️ **Backend Engineering**      | Production APIs, backend services, authentication, business logic, and integrations |
+| 🗄️ **Database Design**         | Relational schemas, PostgreSQL, MySQL, PostGIS, and data modeling                   |
+| 💻 **Full-Stack Development**   | Building complete products with React, JavaScript, and modern backend frameworks    |
+| 🚀 **Product Engineering**      | Taking products from requirements and architecture through deployment and iteration |
+| 👨🏾‍🏫 **Technical Education** | Teaching programming, software engineering, and practical development               |
 
 ---
 
-## 🛠️ My Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -95,7 +59,7 @@ Outside of engineering, I teach programming and software engineering through **u
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
-### Data & Infrastructure
+### Databases & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
@@ -107,11 +71,9 @@ Outside of engineering, I teach programming and software engineering through **u
 
 # 🚀 Things I've Built
 
-## 🏢 Enterprise Developer Platform
+## 🏢 Talent Oasis
 
-### Talent Oasis
-
-An enterprise platform designed to streamline and automate **developer onboarding workflows**.
+An enterprise developer onboarding platform designed to streamline and automate the process of bringing engineers into a development environment.
 
 **My work includes:**
 
@@ -150,21 +112,9 @@ A secure, offline-first Windows application for **biometric attendance logging a
 
 **Built with:**
 
-`Python` `OpenCV` `NumPy` `Pandas` `SQL`
+`Python` · `OpenCV` · `NumPy` · `Pandas` · `SQL`
 
-The project combines:
-
-```text
-Computer Vision
-      +
-Facial Recognition
-      +
-Data Management
-      +
-Desktop Application Development
-```
-
-into a complete end-to-end system.
+The project combines computer vision, facial recognition, data management, and desktop application development into a complete end-to-end system.
 
 ---
 
@@ -172,13 +122,13 @@ into a complete end-to-end system.
 
 I believe one of the best ways to understand something is to **try explaining it to somebody else**.
 
-So I started a YouTube channel where I document and teach software development.
+That's why I started creating technical content around software development, programming, backend engineering, and building projects from scratch.
 
 <div align="center">
 
-### 📺 Daniel's YouTube Channel
+## 📺 My YouTube Channel
 
-[![YouTube](https://img.shields.io/badge/Subscribe_to_my_channel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@danielpossiblekwabi)
+[![YouTube](https://img.shields.io/badge/Visit_My_Channel-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@danielpossiblekwabi)
 
 **Python · Software Engineering · Backend Development · Projects · System Design**
 
@@ -186,33 +136,27 @@ So I started a YouTube channel where I document and teach software development.
 
 ---
 
-# 🐍 Featured: Python Full Course
+# 🐍 Featured Project: Python Full Course
 
-One of my biggest content projects so far:
-
-### **Python Full Course — 5 Hours**
-
-I designed, scripted, recorded, edited, and published a complete Python course covering programming fundamentals through practical software development.
+One of my biggest educational projects so far is a **5-hour Python programming course**, taking learners from programming fundamentals through practical software development.
 
 <a href="https://youtu.be/0flk8oYRtVc">
-  <img src="https://img.youtube.com/vi/0flk8oYRtVc/maxresdefault.jpg" alt="Python Full Course" width="800">
+<img src="https://img.youtube.com/vi/0flk8oYRtVc/maxresdefault.jpg" alt="Python Full Course" width="800">
 </a>
 
-<div align="center">
+### ▶️ [Watch the Python Full Course](https://youtu.be/0flk8oYRtVc)
 
-### [▶️ Watch the Full Python Course](https://youtu.be/0flk8oYRtVc)
+I designed the curriculum, wrote the examples, built the supporting code and resources, recorded the lessons, edited the course, and published the final product.
 
-</div>
+In other words:
 
-This isn't just a tutorial playlist.
-
-It's a **shipped technical product** — from curriculum design and code examples to production, recording, editing, and distribution.
+**Idea → Curriculum → Code → Production → Publication**
 
 ---
 
 # 👨🏾‍🏫 Engineering + Education
 
-Alongside professional engineering, I've taught programming and software development as a **Graduate Teaching Assistant at the University of Professional Studies, Accra (UPSA).**
+Alongside professional engineering, I've taught programming and software development as a **Graduate Teaching Assistant at the University of Professional Studies, Accra (UPSA)**.
 
 My teaching focuses on:
 
@@ -222,7 +166,7 @@ My teaching focuses on:
 * Code reviews
 * Practical engineering concepts
 
-I also create educational repositories and resources to help developers learn by **building instead of just watching**.
+I also create educational repositories and resources designed to help developers **learn by building**.
 
 ---
 
@@ -230,15 +174,13 @@ I also create educational repositories and resources to help developers learn by
 
 Not everything has to be enterprise software.
 
-I've also built games and smaller projects with Python and Pygame to explore programming concepts through experimentation.
+I've also built games with **Python and Pygame** to explore programming concepts through experimentation.
 
-Some of the projects I've worked on:
-
-| Project                   | What I explored                  |
+| Project                   | Concepts                         |
 | ------------------------- | -------------------------------- |
 | 🐍 Snake                  | Game loops, collision detection  |
 | 🏓 Pong                   | Physics, input handling          |
-| 🚦 Red Light, Green Light | Game state and events            |
+| 🚦 Red Light, Green Light | Game state, events               |
 | ⌨️ Type Racer             | Input processing, scoring        |
 | 👾 Space Invaders         | OOP, game architecture           |
 | 🎯 Type Shooter           | Rendering, targeting, game logic |
@@ -247,71 +189,52 @@ Some of the projects I've worked on:
 
 # 📚 Currently Going Deeper
 
-I'm currently focused on becoming better at the parts of engineering that happen **before the code gets written**.
+I'm currently focused on the parts of engineering that happen **before the code gets written**.
 
-### System Design
+**System Design**
+Distributed systems · Scalability · Reliability · Architecture
 
-Distributed systems · scalability · reliability · architecture
+**Backend Engineering**
+API design · Concurrency · Performance · Service architecture
 
-### Backend Engineering
+**Infrastructure**
+Docker · DevOps · Deployment · Cloud infrastructure
 
-API design · concurrency · performance · service architecture
+**AI Engineering**
+Machine learning systems · AI-powered applications · Practical integration
 
-### Infrastructure
-
-Docker · DevOps · deployment · cloud infrastructure
-
-### AI Engineering
-
-Machine learning systems · AI-powered applications · practical integration
-
-### Java Ecosystem
-
-Java · Spring Boot · enterprise application architecture
+**Java Ecosystem**
+Java · Spring Boot · Enterprise application architecture
 
 ---
 
-# 🧭 How I Think About Engineering
+# 🧭 Engineering Philosophy
 
 I don't want to just learn more frameworks.
 
-I want to understand **why systems are designed the way they are.**
+I want to understand **why systems are designed the way they are**.
 
 ```text
-        ┌──────────────────────┐
-        │    Business Need     │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │   System Design      │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │    Implementation    │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │     Deployment       │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │      Feedback        │
-        └──────────┬───────────┘
-                   │
-                   └──────→ Iterate
+Business Need
+      ↓
+System Design
+      ↓
+Implementation
+      ↓
+Deployment
+      ↓
+Feedback
+      ↓
+Iteration
 ```
 
-The goal is simple:
-
-**Build things. Understand how they work. Then teach someone else.**
+> **Build things. Understand how they work. Then teach someone else.**
 
 ---
 
 <div align="center">
 
 ## 🤝 Let's Connect
-
-If you're interested in **software engineering, system design, building products, or developer education**, I'd love to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Kwabi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/daniel-possible-kwabi-383a86310)
 [![YouTube](https://img.shields.io/badge/YouTube-Daniel_Kwabi-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@danielpossiblekwabi)
@@ -322,4 +245,3 @@ If you're interested in **software engineering, system design, building products
 **Build → Learn → Explain → Repeat.**
 
 </div>
-```
